@@ -1,4 +1,6 @@
-[build]
+build]
+  command = ""
+  publish = ""
   functions = "functions"
 
 [[redirects]]
